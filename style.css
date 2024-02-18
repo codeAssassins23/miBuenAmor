@@ -5,13 +5,13 @@
    width:800px;
    margin:5em auto;
    position: fixed;
-  top: -15px;
+   top: -15px;
    left: 25%;
    display:flex;
    visibility:hidden;
 }
 #card h2 {
-   font-size:3em;
+   font-size:1em;
    margin:0;
    color:pink;
    text-align: center;
